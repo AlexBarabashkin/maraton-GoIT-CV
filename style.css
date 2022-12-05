@@ -1,0 +1,137 @@
+        body {
+            background: #F5F7FA;
+            font-family: 'Montserrat', sans-serif;
+            padding: 40px;
+        }
+        
+        .wrapper {
+            display: flex;
+            box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+            background: #FFFFFF;
+            justify-content: center;
+            width: 1200px;
+            margin: 0 auto;
+        }
+        
+        aside {
+            background: #1E2939;
+            color: #ffffff;
+        }
+        
+        .cv-foto {
+            margin-top: 40px;
+            width: 340px;
+        }
+        
+        .aside_Text {
+            margin-left: 40px;
+        }
+        
+        .aside_h2 {
+            margin-top: 50px;
+        }
+        
+        .contacts {
+            Width: 26px;
+            Height: 48px;
+            opacity: 0.5;
+            color: #FFFFFF;
+            padding-left: 5px;
+        }
+        
+        .bold {
+            font-weight: bold;
+            Width: 26px;
+            Height: 48px;
+        }
+        
+        .text_skills {
+            color: #FB6D3A;
+            padding-inline-start: 0px;
+            list-style-position: inside;
+        }
+        
+        .color_li_skills {
+            color: #fff
+        }
+        
+        main {
+            margin: 102px 217px 100px 88px;
+        }
+        
+        h1 {
+            font-size: 45px;
+            line-height: 54.86px;
+        }
+        
+        .main_ul,
+        .main_ol {
+            padding-inline-start: 0px;
+            list-style-position: inside;
+        }
+        
+        .timeofwork {
+            opacity: 0.5;
+        }
+        
+        .job-title {
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 17px;
+            margin-bottom: 19px;
+        }
+        
+        h1 {
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 55px;
+            margin-bottom: 21px;
+        }
+        
+        .about-me {
+            width: 400px;
+            left: 498px;
+            top: 252px;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            color: #595959;
+            margin-bottom: 40px;
+        }
+        
+        .main-h2 {
+            font-weight: 700;
+            font-size: 22px;
+            line-height: 27px;
+        }
+        
+        .main_ol {
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 24px;
+            margin-bottom: 51px;
+        }
+        
+        .project {
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            text-decoration-line: none;
+            color: #595959;
+        }
+        
+        .work_exp {
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 20px;
+        }
+        
+        .work_exp_span {
+            color: #FB6D3A;
+        }
+        
+        .main_ul {
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+        }
